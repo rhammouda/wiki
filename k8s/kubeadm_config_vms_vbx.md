@@ -17,11 +17,10 @@ $ sudo ifconfig enp0s8 192.168.0.1 netmask 255.255.255.05
 ```
 $ sudo apt install docker.io
 ```
+```
 $ sudo systemctl enable docker
 ```
 5- Add the Kubernetes signing key on both the nodes
-```
-If Curl is not installed on your system, you can install it through the following command as root:
 ```
 $ sudo apt install curl
 $ curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add
