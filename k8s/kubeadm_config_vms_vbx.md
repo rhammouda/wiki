@@ -1,4 +1,4 @@
-## Italling kubernate cluster in virtualbox ubuntu vms  
+## Installing kubernate cluster in virtualbox ubuntu vms  
 1- enable adbter 2 in virtualbox and set it to vbx host only adapter  
 2- enable the adapter in vms  
 ```
